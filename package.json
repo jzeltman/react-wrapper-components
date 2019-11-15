@@ -3,14 +3,11 @@
   "version": "1.0.0",
   "description": "Wrapper React components used for wrapping html",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jzeltman/react-wrapper-components.git"
   },
-  "author": "",
+  "author": "Josh Zeltman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jzeltman/react-wrapper-components/issues"
