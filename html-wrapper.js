@@ -12,6 +12,6 @@ export default class HTMLWrapper extends Component {
     }
 
     render() {
-        return <div dangerouslySetInnerHTML={this.getMarkup(this.props.html)} />;
+        return <div dangerouslySetInnerHTML={this.getMarkup(this.props.html)}></div>;
     }
 };

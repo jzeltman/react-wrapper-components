@@ -21,6 +21,6 @@ export default class AsyncWrapper extends Component {
 
     render() {
         if (this.state.html === null) return <div>Loading...</div>;
-        else return <div dangerouslySetInnerHTML={this.getMarkup(this.state.html)} />;
+        else return <div dangerouslySetInnerHTML={this.getMarkup(this.state.html)}></div>;
     }
 };
