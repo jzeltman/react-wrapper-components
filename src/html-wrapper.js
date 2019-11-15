@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from "react";
 
 export default class HTMLWrapper extends Component {
     constructor() {
@@ -12,6 +12,9 @@ export default class HTMLWrapper extends Component {
     }
 
     render() {
-        return <div dangerouslySetInnerHTML={this.getMarkup(this.props.html)}></div>;
+        return (
+            <div
+                dangerouslySetInnerHTML={this.getMarkup(this.props.html)}></div>
+        );
     }
-};
+}
