@@ -1,4 +1,4 @@
-import { Component } from 'rreact';
+import { Component } from 'react';
 
 export default class HTMLWrapper extends Component {
     constructor() {

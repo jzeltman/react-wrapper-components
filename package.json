@@ -1,6 +1,6 @@
 {
   "name": "react-wrapper-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper React components used for wrapping html",
   "main": "index.js",
   "repository": {
