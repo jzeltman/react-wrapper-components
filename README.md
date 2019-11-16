@@ -1,6 +1,6 @@
 # react-wrapper-components
 
-Wrapper for React components used for wrapping html and
+Wrapper for React components used for wrapping html
 
 ## Usage
 
