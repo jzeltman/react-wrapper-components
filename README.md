@@ -1,5 +1,7 @@
 # react-wrapper-components
-Wrapper React components used for wrapping html
+
+Wrapper for React components used for wrapping html
 
 ## Usage
-import { AsyncWrapper, HTMLWrapper } from 'preact-wrapper-components';
+
+import { AsyncWrapper, HTMLWrapper } from 'react-wrapper-components';
